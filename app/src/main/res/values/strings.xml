@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Wine</string>
+    <string name="register">Register</string>
+    <string name="already_an_account_log_in">Already an account? Log in!</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+</resources>
